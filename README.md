@@ -8,7 +8,6 @@ const oussama = {
   role: "Full-Stack Developer",
   code: [Java, Javascript, Typescript, HTML, CSS],
   tools: [Spring Boot, React, Angular, Docker, PostgreSQL, RabbitMQ],
-  architecture: ["REST APIs", "microservices", "JWT/Spring Security"],
   currentlyBuilding: "MockForge — an OpenAPI-spec-driven mock API server",
 }
 ```
